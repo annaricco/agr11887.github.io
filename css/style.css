@@ -218,6 +218,18 @@ section a:hover {
 }
 
 /**************   Contact Page   *****************/
+
+h1{
+  text-align: center;
+  color: #5C4033;
+  margin-bottom: 8px;
+}
+
+p {
+  text-align: center;
+  color: #5C4033; /* dark brown for smaller text */
+  margin-top: 0;
+}
 .one-col {
   display: grid;
   grid-template-columns: 1fr; 
